@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+  --font-outfit: 'Playfair Display', serif;
+  --color-brand: #0c6e6b;
+  --color-brand-dark: #084e4c;
+  --color-brand-soft: #e7f4f3;
+}
